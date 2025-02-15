@@ -33,8 +33,8 @@ A API lê a lista de indicados de uma fonte de dados CSV, armazenar os dados na 
 ## Configuração e Execução
 ### 1. Clonar o repositório
 ```
-git clone https://github.com/seu-usuario/golden-raspberry-api.git
-cd golden-raspberry-api
+git clone https://github.com/josueccim/golden_raspberry_api
+cd golden_raspberry_api
 ```
 
 ### 2. Criar um ambiente virtual e ativá-lo
